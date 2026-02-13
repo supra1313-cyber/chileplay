@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Chile Jugando - High Performance E-commerce",
+  "description": "A modern, high-performance React-based frontend for Chile Jugando, migrating from WordPress/Elementor to a fast Jamstack architecture suitable for Netlify deployment.",
+  "requestFramePermissions": []
+}
